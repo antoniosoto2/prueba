@@ -2,4 +2,4 @@ Programacion
 
 nueva
 
-!^[](gatos.jpg)
+![](gatos.jpg)
